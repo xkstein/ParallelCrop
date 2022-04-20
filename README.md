@@ -1,6 +1,6 @@
 ![](src/git_demo.gif)
 
-# badfatstupid. (title in progress)
+# Parallel Crop (title in progress)
 
 This is a little utility for doing simulatanious croppings across aligned images. Start with `python3 crop_hack.py`
 
