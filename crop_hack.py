@@ -14,10 +14,6 @@ import numpy as np
 import csv
 import sys
 import time
-import logging
-from dataclasses import dataclass
-
-logging.basicConfig(filename='crop_hack.log', filemode='w', level=logging.DEBUG)
 
 # TODO: re-implement all of these functions as toolbar functions
 def key_press(event):

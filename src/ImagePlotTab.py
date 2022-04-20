@@ -62,7 +62,6 @@ class ImagePlotTab(QWidget):
         for tab in self.tab_list:
             if tab['plot'].active:
                 save_path = out_dir + tab['name'] + suf + '.png'
-                print(save_path)
                 tab['plot'].save_roi(save_path)
 
     def roi_move(self, tensor):
