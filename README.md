@@ -8,4 +8,4 @@ By controlling the ROI (the little red thing) in the window on the right, one ca
 
 **Note:** the filenames of the croppings will be the same as the original images, just with the added suffix.
 
-Here's an edit
+Here's another edit
